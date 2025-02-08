@@ -13,5 +13,6 @@ Verzauberungen für die Items sind noch nicht implementiert, werden aber vorauss
 # Download:
 Die `.jar`-Datei des Plugins findest du in diesem Repository.
 
-# License
-Adventskalender ist unter der Apache-2.0- und MIT-Lizenz dual lizenziert.
+## License
+
+RSAN is dual-licensed under Apache-2.0 and MIT.
