@@ -1,0 +1,13 @@
+name: Adventskalender
+version: '1.0'
+main: de.wagamundi.adventskalender.Adventskalender
+api-version: '1.21'
+author: Wagamundi
+
+commands:
+  adventskalender:
+    description: "Opens the Adventskalender"
+    aliases:
+      - ak
+      - advent
+      - ad
