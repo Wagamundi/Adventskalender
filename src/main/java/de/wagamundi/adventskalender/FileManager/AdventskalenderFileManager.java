@@ -48,7 +48,7 @@ public class AdventskalenderFileManager {
             Object playerFileRaw = new JSONParser().parse(new FileReader(playerFile));
             JSONObject finPlayerFile = (JSONObject) playerFileRaw;
 
-            String finalJsonReturn = finPlayerFile.get("Tuerchen").toString();  //TODO FIX ERROR, see Chat-GPT for ERROR Output
+            String finalJsonReturn = finPlayerFile.get("Tuerchen").toString();
             
             return gson.fromJson(finalJsonReturn, int[].class);
 
